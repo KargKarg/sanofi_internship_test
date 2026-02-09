@@ -1,6 +1,6 @@
-# PK/PD Modeling with Kolmogorov–Arnold Networks (KAN)
+# PK/PD Modeling with Kolmogorov Arnold Networks (KAN)
 
-Short project aiming to use **Kolmogorov–Arnold Networks (KAN)** to learn **patient PK/PD dynamics**.
+Short project aiming to use **Kolmogorov Arnold Networks (KAN)** to learn **patient PK/PD dynamics**.
 
 ---
 
@@ -45,12 +45,12 @@ Future work should focus on **larger and more complex systems** to further asses
 ## References
 
 - **Ziming Liu et al. (2024).**  
-  *KAN: Kolmogorov–Arnold Networks.*  
+  *KAN: Kolmogorov-Arnold Networks.*  
   arXiv:2404.19756.  
   Introduces the KAN framework and its theoretical foundations.
 
 - **Benjamin König et al. (2024).**  
-  *KAN-ODEs: Learning Ordinary Differential Equations via Kolmogorov–Arnold Networks.*  
+  *KAN-ODEs: Learning Ordinary Differential Equations via Kolmogorov-Arnold Networks.*  
   GitHub: `DENG-MIT/KAN-ODEs`
 
 - **M. Petrizzelli et al.**  
