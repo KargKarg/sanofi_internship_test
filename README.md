@@ -51,8 +51,7 @@ Future work should focus on **larger and more complex systems** to further asses
 
 - **Benjamin König et al. (2024).**  
   *KAN-ODEs: Learning Ordinary Differential Equations via Kolmogorov–Arnold Networks.*  
-  GitHub: `DENG-MIT/KAN-ODEs`  
-  Note: The Kolmogorov–Arnold Network implementation used in this project is located in the `PDE/examples/src` folder of the repository.
+  GitHub: `DENG-MIT/KAN-ODEs`
 
 - **M. Petrizzelli et al.**  
   *KANODE_PKPD.*  
