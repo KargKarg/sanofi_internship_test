@@ -1,0 +1,21 @@
+[project]
+name = "sanofi_internship_test"
+version = "0.1.0"
+description = "PK/PD modeling using KAN"
+authors = [
+    { name = "Adam", email = "KAN@KAN.com" }
+]
+
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "scikit-learn",
+    "seaborn",
+    "scipy",
+    "matplotlib",
+    "torch",
+    "tqdm",
+]
