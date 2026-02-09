@@ -402,9 +402,7 @@ def plot_splines(layer: KANLinear, in_feature: int = 0, out_feature: int = 0, nu
     spline_values = layer.b_splines(x)[:, in_feature, :].detach().cpu() @ layer.scaled_spline_weight.detach().cpu()[out_feature, in_feature, :]
 
     plt.plot(x[:, in_feature].cpu(), spline_values)
-    plt.title(f'Spline for in_feature={in_feature}, out_feature={out_feature}')
     plt.xlabel('Input feature value')
     plt.ylabel('Spline output')
-    plt.grid(True)
     plt.show()
     return None
