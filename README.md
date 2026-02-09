@@ -53,6 +53,6 @@ Future work should focus on **larger and more complex systems** to further asses
   *KAN-ODEs: Learning Ordinary Differential Equations via Kolmogorov-Arnold Networks.*  
   GitHub: `DENG-MIT/KAN-ODEs`
 
-- **M. Petrizzelli et al.**  
+- **M. Petrizzelli**  
   *KANODE_PKPD.*  
   GitHub: `SanofiMPetrizzelli/KANODE_PKP_
